@@ -1,0 +1,22 @@
+body{
+	background: #141E30;;
+}
+
+.nyan_cat{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 120px;
+}
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,p{
+	text-align: center;
+	color: lightgreen;
+}
