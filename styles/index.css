@@ -21,7 +21,7 @@ h2,h3{
     height: 120px;
 }
 
-a:visited {
+a:link{
     color: lightgreen;
     text-decoration: none;
 }
@@ -30,3 +30,9 @@ a:hover {
     color: hotpink;
     text-decoration: underline;
 }
+
+a:visited {
+    color: hotpink;
+    text-decoration: none;
+}
+
