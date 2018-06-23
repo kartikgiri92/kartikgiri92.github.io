@@ -2,23 +2,22 @@ body{
 	background: #141E30;;
 }
 
+.nyan_cat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 120px;
+}
+
 .white{
 	color:white;
 	text-align: center;
 }
 
-
 h2,h3{
 	text-align: center;
 	color: lightgreen;
-}
-
-.nyan_cat{
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    height: 120px;
 }
 
 a:link{
