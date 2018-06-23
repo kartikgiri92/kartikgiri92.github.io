@@ -10,17 +10,17 @@ body{
     height: 120px;
 	}
 
-h1{
-    color:yellow;
+h2{
+    color:lightgreen;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3,p{
+    color: white;
     text-align: center;
 }
 
-.hello_world{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 120px;
-}
 img{
     display: block;
     margin-left: auto;
